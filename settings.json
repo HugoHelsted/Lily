@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Lily",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "ellebjerg26.aternos.me:47994",
-    "port": 47994,
+    "port": ,
     "version": "",
     "try-creative": false
   },
